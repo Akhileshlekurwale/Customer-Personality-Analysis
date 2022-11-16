@@ -1,3 +1,4 @@
+pymongo[srv]==4.2.0
 pandas
 numpy
 matplotlib
@@ -6,4 +7,5 @@ PyYAML
 seaborn
 sklearn
 flask
+six
 -e .
